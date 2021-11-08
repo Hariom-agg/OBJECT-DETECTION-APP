@@ -1,0 +1,20 @@
+
+
+.heading
+{
+font-size: 30px;
+width: 100%;
+margin: 0px;
+box-shadow: 5px 5px 3px 3px gray;
+}
+
+#btn1, #btn2 , #btn3 , #btn4
+{
+    width: 200px;
+}
+
+body
+{
+  background-size: cover;
+  background-position: center;
+}

@@ -18,3 +18,25 @@ body
   background-size: cover;
   background-position: center;
 }
+
+#btn_ac
+{
+  width: 100px;
+  height: 40px;
+  background-color: grey;
+  border-radius: 5px;
+  color: white;
+  float: right;
+  margin-top: 15px;
+  margin-right: 10px;
+}
+
+#objects-detect-ac , #objects-detect-balcani , #objects-detect-live , #objects-detect-tv
+{
+  color: white;
+}
+
+canvas
+{
+  box-shadow: 5px 5px 3px 3px black;
+}

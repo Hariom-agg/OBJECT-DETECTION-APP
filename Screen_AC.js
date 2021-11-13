@@ -35,13 +35,17 @@ function gotResults(error , results)
    
 }
 
+
 function draw()
 {
 
 }
 
+
 function back_ac ()
 {
     window.location = "index.html";
 }
+
+
 
